@@ -4,9 +4,11 @@
 
 - [Resources](#resources)
   - [Blog Posts](#blog-posts)
+  - [Videos](#videos)
 
+## Resources
 
-## Blog Posts
+### Blog Posts
 **2021**
 - [Micro-Frontends at scale - part 1](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773) 
 - [Micro-Frontends at scale - part 2](https://levelup.gitconnected.com/micro-frontends-at-scale-part-2-d10994f09f18)
@@ -29,3 +31,7 @@
 - [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9) by Luca Mezzalira
 - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
 - [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
+
+### Videos
+- [Micro Frontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
+- [Scaling Your Project with Micro-Frontends](https://www.youtube.com/watch?v=tD1rcWSfYpo)
