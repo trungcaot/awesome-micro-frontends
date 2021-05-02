@@ -31,6 +31,7 @@
 - [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9) by Luca Mezzalira
 - [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
 - [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
+- [Micro-frontends resources](https://medium.com/@lucamezzalira/micro-frontends-resources-53b1ec7d512a)
 
 ### Videos
 - [Micro Frontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
