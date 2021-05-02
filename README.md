@@ -1,6 +1,6 @@
 # awesome-microfrontends
 
-> A curated list of awesome things related to Micro-frontends. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+> A curated list of awesome things related to Micro-frontends. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏, or buy me a coffee!
 
 ## Mind map of Micro-Frontends
 ![alt text](/images/Microfrontends_v1.0.0.png)
