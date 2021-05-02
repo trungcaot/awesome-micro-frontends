@@ -14,3 +14,18 @@
 - [How To Convert a Huge Frontend Monolith to a Micro-frontend](https://blog.dream11engineering.com/how-to-convert-a-huge-frontend-monolith-to-a-micro-frontend-d37f47697235)
 - [How to create React Micro Frontends from scratch using single-spa framework](https://medium.com/litslink/how-to-create-react-micro-frontends-from-scratch-using-single-spa-framework-in-examples-592c7f63bedf)
 - [Building Micro Frontends Using Single-SPA Framework](https://blog.bitsrc.io/building-microfrontends-using-single-spa-framework-94019ca2fb4d)
+
+**2020**
+- [How to Develop Microfrontends Using React: Step by Step Guide](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
+- [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645)
+- [Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
+- [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
+
+**2019**
+- [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a) by Luca Mezzalira
+- [Adopting a Micro-frontends architecture](https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3) by Luca Mezzalira
+- [Orchestrating micro-frontends](https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33) by Luca Mezzalira
+- [Identifying micro-frontends in our applications](https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257) by Luca Mezzalira
+- [I don’t understand micro-frontends](https://medium.com/@lucamezzalira/i-dont-understand-micro-frontends-88f7304799a9) by Luca Mezzalira
+- [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513) by Luca Mezzalira
+- [Micro-frontends in context](https://increment.com/frontend/micro-frontends-in-context/)
