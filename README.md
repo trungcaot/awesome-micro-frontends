@@ -2,6 +2,7 @@
 
 > A curated list of awesome things related to Micro-frontends. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
+## Brief contents
 - [Resources](#resources)
   - [Blog Posts](#blog-posts)
   - [Videos](#videos)
@@ -49,5 +50,5 @@
 - [Puzzle.js](https://github.com/puzzle-js/puzzle-js)
 
 <div align="right">
-  <b><a href="#resources">↥ Back To Top</a></b>
+  <b><a href="#brief-contents">↥ Back To Top</a></b>
 </div>
