@@ -5,6 +5,7 @@
 - [Resources](#resources)
   - [Blog Posts](#blog-posts)
   - [Videos](#videos)
+  - [Frameworks](#frameworks)
 
 ## Resources
 
@@ -36,3 +37,10 @@
 ### Videos
 - [Micro Frontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
 - [Scaling Your Project with Micro-Frontends](https://www.youtube.com/watch?v=tD1rcWSfYpo)
+
+### Frameworks
+- [Single-spa.js](https://single-spa.js.org/)
+- [Frint.js](https://frint.js.org/)
+- [Qiankun](https://qiankun.umijs.org/)
+- [Ara Framework](https://ara-framework.github.io/website/)
+- [Puzzle.js](https://github.com/puzzle-js/puzzle-js)
