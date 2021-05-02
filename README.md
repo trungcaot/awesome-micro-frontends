@@ -23,6 +23,9 @@
 - [How to build a micro-frontends architecture, with Angular and Webpack Module Federation](https://medium.com/agorapulse-stories/building-a-micro-frontends-architecture-in-2021-with-angular-and-webpack-module-federation-50d073617645)
 - [Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
 - [Building Micro-Frontends With Single-spa, React, and Vue](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react)
+- [Problems with Micro-frontends](https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58)
+- [Micro frontends: my lessons learned](https://dev.to/this-is-learning/micro-frontends-my-lessons-learned-1pcp) by Natalia Venditto (*)
+- [Slide micro-frontends](https://slides.com/anfibiacreativa/micro-frontends)
 
 **2019**
 - [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a) by Luca Mezzalira
