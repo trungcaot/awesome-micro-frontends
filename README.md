@@ -9,6 +9,7 @@
 - [Resources](#resources)
   - [Blog Posts](#blog-posts)
   - [Videos](#videos)
+  - [Deploys](#deploys)
   - [Frameworks](#frameworks)
 
 ## Resources
@@ -44,6 +45,11 @@
 ### Videos
 - [Micro Frontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
 - [Scaling Your Project with Micro-Frontends](https://www.youtube.com/watch?v=tD1rcWSfYpo)
+
+### Deploys
+- [Serverless Micro-Frontends with the AWS CDK](https://dev.to/fllstck/serverless-micro-frontends-with-the-aws-cdk-3lf)
+- [Micro-frontends with AWS Amplify (Part 1)](https://levelup.gitconnected.com/micro-frontends-with-aws-amplify-50c2e2dc4222)
+- [Micro-frontends with AWS Amplify (Part 2)](https://alatech.medium.com/micro-frontends-with-aws-amplify-part-2-f69acf518287)
 
 ### Frameworks
 - [Single-spa.js](https://single-spa.js.org/)
