@@ -11,6 +11,7 @@
   - [Videos](#videos)
   - [Deploys](#deploys)
   - [Frameworks](#frameworks)
+  - [Projects](#projects)
 
 ## Resources
 
@@ -57,7 +58,11 @@
 - [Qiankun](https://qiankun.umijs.org/)
 - [Ara Framework](https://ara-framework.github.io/website/)
 - [Puzzle.js](https://github.com/puzzle-js/puzzle-js)
+- [Luigi](https://luigi-project.io/)
 
 <div align="right">
   <b><a href="#brief-contents">↥ Back To Top</a></b>
 </div>
+
+### Projects
+- [Mosaic](https://www.mosaic9.org/) A set of services, libraries together with a specification by Zalando
