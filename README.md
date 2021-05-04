@@ -12,6 +12,7 @@
   - [Deploys](#deploys)
   - [Frameworks](#frameworks)
   - [Projects](#projects)
+  - [Websites](#websites)
 
 ## Resources
 
@@ -66,3 +67,16 @@
 
 ### Projects
 - [Mosaic](https://www.mosaic9.org/) A set of services, libraries together with a specification by Zalando
+
+<div align="right">
+  <b><a href="#brief-contents">↥ Back To Top</a></b>
+</div>
+
+### Websites
+- [Micro Frontends](https://micro-frontends.org/)
+- [Micro Frontends](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) by Elisabeth Engel
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) by Martin Fowler
+
+<div align="right">
+  <b><a href="#brief-contents">↥ Back To Top</a></b>
+</div>
