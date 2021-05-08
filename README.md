@@ -11,6 +11,7 @@
   - [Videos](#videos)
   - [Deploys](#deploys)
   - [Frameworks](#frameworks)
+  - [Libraries](#libraries)
   - [Projects](#projects)
   - [Websites](#websites)
   - [Tools](#tools)
@@ -66,6 +67,12 @@
   <b><a href="#brief-contents">↥ Back To Top</a></b>
 </div>
 
+### Libraries
+- [PubSubJS](https://github.com/mroderick/PubSubJS)
+
+<div align="right">
+  <b><a href="#brief-contents">↥ Back To Top</a></b>
+</div>
 
 ### Projects
 - [Mosaic](https://www.mosaic9.org/) A set of services, libraries together with a specification by Zalando
@@ -85,3 +92,7 @@
 
 ### Tools
 - [Lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages.
+
+<div align="right">
+  <b><a href="#brief-contents">↥ Back To Top</a></b>
+</div>
