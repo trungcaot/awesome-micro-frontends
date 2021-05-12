@@ -6,6 +6,15 @@
 
 ![alt text](/images/Microfrontends_v1.0.1.png)
 
+#### Some main ideas once you choose Micro-Frontends
+- You can ask a question yourself. What do I actually need Micro-Frontend?
+- If you had made a decision to micro-frontends, then you probably look over the following items.
+- Defining for a split  monolith app by a vertical split
+- Should use only a main library or framework to all micro-frontends(Ex: only use React library not include Angular or Vue)
+- Keep minimizing communication between micro-frontends (Ex. share JWT token)
+- Keep in mind for autonomous team develop, so it will help you to independent development and deployment 
+- You can use the [Single-SPA](https://single-spa.js.org/) framework to trying implement with it
+
 ## Brief contents
 
 - [Resources](#resources)
