@@ -114,6 +114,7 @@
 ### Tools
 
 - [Lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages.
+- [npm-run-all/yarn-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
 
 <div align="right">
   <b><a href="#brief-contents">↥ Back To Top</a></b>
