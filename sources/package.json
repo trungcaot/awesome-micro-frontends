@@ -1,0 +1,20 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "setup": "yarn",
+    "install": "lerna bootstrap",
+    "start:root-config": "npm start --prefix packages/root-config",
+    "start": "run-s start:*",
+    "clean": "lerna clean && lerna run clean",
+    "reset": "lerna run reset && lerna clean --yes && rimraf ./node_modules && yarn setup"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "yarn-run-all": "^3.1.1"
+  }
+}
