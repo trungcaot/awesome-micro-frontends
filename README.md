@@ -115,6 +115,7 @@
 
 - [Lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages.
 - [npm-run-all/yarn-run-all](https://github.com/mysticatea/npm-run-all) A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) Monorepo for all the tooling which enables ESLint to support TypeScript
 
 <div align="right">
   <b><a href="#brief-contents">↥ Back To Top</a></b>
