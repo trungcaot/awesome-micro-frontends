@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --port 9000 --env isLocal",
+    "audit": "yarn audit",
     "lint": "eslint src --ext js,ts,tsx",
     "test": "cross-env BABEL_ENV=test jest --passWithNoTests",
     "format": "prettier --write .",
@@ -11,7 +12,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged && concurrently npm:test npm:lint"
+      "pre-commit": "pretty-quick --staged && concurrently yarn:audit yarn:test yarn:lint"
     }
   },
   "devDependencies": {
@@ -19,32 +20,34 @@
     "@babel/eslint-parser": "^7.12.16",
     "@babel/plugin-transform-runtime": "^7.12.1",
     "@babel/preset-env": "^7.12.7",
+    "@babel/preset-typescript": "^7.12.7",
     "@babel/runtime": "^7.12.5",
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0",
     "concurrently": "^5.3.0",
     "cross-env": "^7.0.3",
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-prettier": "^3.2.0",
+    "eslint-plugin-react": "^7.23.2",
     "husky": "^4.3.5",
     "jest": "^26.6.3",
     "jest-cli": "^26.6.3",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
     "serve": "^11.3.2",
+    "ts-config-single-spa": "^2.0.0",
+    "typescript": "^4.1.2",
     "webpack": "^5.8.0",
     "webpack-cli": "^4.2.0",
-    "webpack-dev-server": "^4.0.0-beta.0",
-    "webpack-merge": "^5.5.0",
-    "@babel/preset-typescript": "^7.12.7",
-    "eslint-config-ts-important-stuff": "^1.1.0",
-    "typescript": "^4.1.2",
     "webpack-config-single-spa-ts": "^2.0.0",
-    "ts-config-single-spa": "^2.0.0"
+    "webpack-dev-server": "^4.0.0-beta.0",
+    "webpack-merge": "^5.5.0"
   },
   "dependencies": {
     "@types/jest": "^26.0.16",
     "@types/systemjs": "^6.1.0",
-    "single-spa": "^5.8.2",
-    "@types/webpack-env": "^1.16.0"
+    "@types/webpack-env": "^1.16.0",
+    "single-spa": "^5.8.2"
   }
 }
