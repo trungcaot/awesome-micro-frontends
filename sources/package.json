@@ -9,6 +9,7 @@
     "setup": "yarn",
     "install": "lerna bootstrap",
     "start:root-config": "npm start --prefix packages/root-config",
+    "start:mf-authentication": "npm start --prefix packages/mf-authentication",
     "start": "run-s start:*",
     "clean": "lerna clean && lerna run clean",
     "reset": "lerna run reset && lerna clean --yes && rimraf ./node_modules && yarn setup"
