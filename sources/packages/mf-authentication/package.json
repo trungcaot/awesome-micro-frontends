@@ -1,5 +1,6 @@
 {
   "name": "@demo/mf-authentication",
+  "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --port 9001",
     "start:standalone": "webpack serve --port 9001 --env standalone",
